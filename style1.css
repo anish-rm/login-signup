@@ -7,7 +7,7 @@
 }
 
 body{
-    background: #ffc6c7;
+    background: #fffffe;
     width: 70%;
     margin: auto;
     padding-top: 150px;
@@ -20,7 +20,7 @@ body{
 }
 
 .login{
-    background: #fffffe;
+    background: #d1d1e9;
     padding: 50px;
     width: 35%;
 }
@@ -45,13 +45,13 @@ body{
 
 .mail input[type = "text"]{
     width: 80%;
-    background: #faeee7;
+    background: #fffffe;
     padding: 10px 5px;
     border: none;
 }
 .pass input[type="password"]{
     width: 74%;
-    background: #faeee7;
+    background:  #fffffe;
     padding: 10px 5px;
     border: none;
 }
@@ -67,7 +67,7 @@ body{
 
 .btn{
     padding: 10px 30px;
-    background: #ff8ba7;
+    background: #6246ea;
     border: none;
     border-radius: 20px;
     cursor: pointer;
@@ -77,7 +77,7 @@ body{
 }
 .btn2{
     padding: 13px 30px;
-    background: #ff8ba7;
+    background: #d1d1e9;
     border: none;
     border-radius: 20px;
     cursor: pointer;
@@ -87,7 +87,7 @@ body{
 }
 
 .content{
-    background: #594a4e;
+    background: #6246ea;
     padding: 109.5px 50px;
     width: 35%;
     text-align: center;
@@ -118,7 +118,7 @@ body{
 .name input[type="text"]{
     margin: 0 10px;
     width: 80%;
-    background: #faeee7;
+    background: #fffffe;
     padding: 10px 5px;
     border: none;
 }
@@ -131,20 +131,20 @@ body{
 .myform2 .mail input[type = "text"]{
     margin-left: -6px;
     width: 100%;
-    background: #faeee7;
+    background: #fffffe;
     padding: 10px 5px;
     border: none;
 }
 .myform2 .pass input[type="password"]{
     margin-left: -3.5px;
     width: 92%;
-    background: #faeee7;
+    background: #fffffe;
     padding: 10px 5px;
     border: none;
 }
 
 .content2{
-    background: #594a4e;
+    background: #6246ea;
     padding: 136px 50px;
     width: 35%;
     text-align: center;

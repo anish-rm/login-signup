@@ -17,4 +17,3 @@ prevent.addEventListener('click',()=>{
 //     login.classList.add('log');
 //     disp.classList.remove('log');
 // });
-
